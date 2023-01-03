@@ -5,4 +5,4 @@ Hi, I'm Harveen Kaur!👋
 - 👨‍💻 Pronouns: she/her
 - 📫 How to reach me: harveenkaur1912@gmail.com
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Harveen19&theme=tokyonight
+
