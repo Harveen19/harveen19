@@ -4,5 +4,4 @@ Hi there! I am Harveen Kaur👋
 - 🔭 I'm studying at Chitkara University Rajpura
 - 📫 How to reach me: harveenkaur1912@gmail.com
 
-Connect with me:
-https://www.linkedin.com/in/kaurharveen19/
+Connect with me: https://www.linkedin.com/in/kaurharveen19/
